@@ -36,8 +36,8 @@
         <script>
         //<![CDATA[
           (async function () {
-            var base = "https://fastly.jsdelivr.net/gh/chachereben29-stack/Macos@main/";
-            var url = base + "real6index.html?t=" + Date.now();
+            var base = "https://fastly.jsdelivr.net/gh/mathissofun137/scramjet-demo-by-ai/";
+            var url = base + "index.html?t=" + Date.now();
             var XHTML = "http://www.w3.org/1999/xhtml";
 
             // In SVG foreignObject, document.body can be null — find body the hard way
